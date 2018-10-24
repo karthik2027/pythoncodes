@@ -1,5 +1,6 @@
 text = raw_input()
 str=""
+print "hello"
 for i in text:
 	if i!=' ':
 		if i=='y':
@@ -13,3 +14,4 @@ for i in text:
 		str=str+' '
 
 print str
+print "thanks"
